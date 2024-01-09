@@ -17,6 +17,7 @@ expensive from a computational perspective.
 - Finds monotontic trends in terms of daily returns
 - Uses the arkouda groupBy function to catergorize each days voalitlity into either "High" "Low" based on a threshold
 - then calculates the average daily returns of each of those groups.
+- Computes some simple stastisics for each column.
 
   #The code takes on average 3-4 minutes to fully run
 
