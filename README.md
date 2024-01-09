@@ -8,7 +8,7 @@ Client Version: v2023.11.15+23.g663260519
 
 Objective: I picked the following dataset because it is quite large in size and covers S&P data all the way from the 1920's with 18,000 + rows.
 My thinking is that size and variance of features in this dataset would lend itself to show the efficiency of carrying out operations that are somewhat
-expensive from a computational perspective.
+expensive from a computational perspective. Some areas I chose to focus on included monotonticity analaysis in terms of daily returns, volalitlty analysis, visualization and feature statsitics (to name a few).
 
 ## What the code does?
 - Computes daily average returns based on the close price
