@@ -19,7 +19,7 @@ expensive from a computational perspective.
 - then calculates the average daily returns of each of those groups.
 - Computes some simple stastisics for each column.
 
-  #The code takes on average 3-4 minutes to fully run
+  #The code takes on average 2-3 minutes to fully run
 
 
 2.3
